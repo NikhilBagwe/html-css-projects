@@ -1,5 +1,5 @@
 // Anonymous function using  IIFE (Immediately Invoked Function Expression)
-;(function () {
+(function () {
   var hour = document.querySelector(".hour")
   var min = document.querySelector(".minute")
   var sec = document.querySelector(".second")
